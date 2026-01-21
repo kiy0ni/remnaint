@@ -63,7 +63,7 @@ python main.py
 
 Ce projet a été réalisé par une équipe de trois développeurs :
 
-  * **Sacha (KiyOni)** : Structure principale du code, gestion des menus, musique, code du joueur et documentation.
+  * **KiyOni** : Structure principale du code, gestion des menus, musique, code du joueur et documentation.
   * **Mathias** : Développement de l'IA des ennemis et gestion de la carte.
   * **Eloi** : Création des *pixel arts* (design et animations).
 
